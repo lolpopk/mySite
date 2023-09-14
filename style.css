@@ -1,0 +1,20 @@
+.rounded-img {
+    width: 60% ;
+    border-radius: 50%;
+}
+
+.flooded {
+    background-color: grey;
+    height: 90%;
+    width: 70%;
+    border-radius: 3%;
+}
+
+.holder {
+    height: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
